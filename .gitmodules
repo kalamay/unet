@@ -1,0 +1,3 @@
+[submodule "src/fio"]
+	path = src/fio
+	url = git@github.com:kalamay/fio.git

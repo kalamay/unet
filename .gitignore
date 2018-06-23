@@ -1,0 +1,5 @@
+.DS_Store
+build/Custom.mk
+build/bin
+build/lib
+build/tmp
